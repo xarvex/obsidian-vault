@@ -1,0 +1,13 @@
+/*
+
+!.gitignore
+!LICENSE
+!README.md
+
+!/*Projects
+/*Projects/*
+!/*Projects/Index.md
+
+!/*Meta
+/*Meta/*
+!/*Meta/templates
