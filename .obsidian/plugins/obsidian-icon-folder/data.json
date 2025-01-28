@@ -1,0 +1,184 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiTerminalSquare"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "dotfyls",
+        "icon": "LiMonitorDot",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "dotpanel",
+        "icon": "LiLayoutDashboard",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "hueniform",
+        "icon": "LiPalette",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "odditty",
+        "icon": "LiTerminalSquare",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "insomnidle",
+        "icon": "LiEyeOff",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "persistwd",
+        "icon": "LiAsteriskSquare",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "twitter-unverified",
+        "icon": "LiVerified",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "wherenver",
+        "icon": "LiFolderOutput",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "yubigen",
+        "icon": "LiKeyRound",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "About",
+        "icon": "LiClipboardList",
+        "for": "everything",
+        "order": 9
+      },
+      {
+        "rule": "Index",
+        "icon": "LiFolderTree",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "Log",
+        "icon": "LiClipboardSignature",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "Cybersecurity",
+        "icon": "LiNetwork",
+        "for": "everything",
+        "order": 13
+      },
+      {
+        "rule": "Map",
+        "icon": "LiMap",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "Meeting",
+        "icon": "LiMessageSquareText",
+        "for": "everything",
+        "order": 14
+      },
+      {
+        "rule": "Mentorship",
+        "icon": "LiHardHat",
+        "for": "everything",
+        "order": 15
+      },
+      {
+        "rule": "Professor",
+        "icon": "LiBookUser",
+        "for": "everything",
+        "order": 16
+      },
+      {
+        "rule": "Programming",
+        "icon": "LiCurlyBraces",
+        "for": "everything",
+        "order": 17
+      },
+      {
+        "rule": "Terminals",
+        "icon": "LiTerminalSquare",
+        "for": "everything",
+        "order": 18
+      },
+      {
+        "rule": "Academic",
+        "icon": "LiBookOpenText",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "Club",
+        "icon": "LiUsers",
+        "for": "everything",
+        "order": 20
+      },
+      {
+        "rule": "Meta",
+        "icon": "LiDatabase",
+        "for": "everything",
+        "order": 21
+      },
+      {
+        "rule": "Personal",
+        "icon": "LiOpenVault",
+        "for": "everything",
+        "order": 22
+      },
+      {
+        "rule": "Project",
+        "icon": "LiCode2",
+        "for": "everything",
+        "order": 23
+      },
+      {
+        "rule": "Topic",
+        "icon": "LiLibraryBig",
+        "for": "everything",
+        "order": 25
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  }
+}
